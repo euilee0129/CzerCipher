@@ -33,23 +33,7 @@ char cipher(char c) {
 }
 
 int main(int argc, char *argv[]) {
-  // string word;
-  // ifstream fin;
-  // //fin.open(argv[1]);
-  // //while( fin >> word ){
-  //     //char letter = substring(word);
-  //     //cypher(letter)
-  // //}
-  // int len = strlen(word);
-  // int i =0;
-  // int j = i+1;
-  // char* list;
-  // while( len > 0)
-  // {
-  //     list[i] = word.substr(i,j);
-  //     i++;
-  //     j++;
-  // }
+
   char ch1;
   cout << "please only insert ONE capital letter" << endl;
   cin >> ch1;
